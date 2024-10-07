@@ -1,0 +1,14 @@
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\bin\Debug\net8.0\Pizza Fight mayhem.exe
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\bin\Debug\net8.0\Pizza Fight mayhem.deps.json
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\bin\Debug\net8.0\Pizza Fight mayhem.runtimeconfig.json
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\bin\Debug\net8.0\Pizza Fight mayhem.dll
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\bin\Debug\net8.0\Pizza Fight mayhem.pdb
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\obj\Debug\net8.0\Pizza Fight mayhem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\obj\Debug\net8.0\Pizza Fight mayhem.AssemblyInfoInputs.cache
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\obj\Debug\net8.0\Pizza Fight mayhem.AssemblyInfo.cs
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\obj\Debug\net8.0\Pizza Fight mayhem.csproj.CoreCompileInputs.cache
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\obj\Debug\net8.0\Pizza Fight mayhem.dll
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\obj\Debug\net8.0\refint\Pizza Fight mayhem.dll
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\obj\Debug\net8.0\Pizza Fight mayhem.pdb
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\obj\Debug\net8.0\Pizza Fight mayhem.genruntimeconfig.cache
+C:\Users\tarun\source\repos\Pizza Fight mayhem\Pizza Fight mayhem\obj\Debug\net8.0\ref\Pizza Fight mayhem.dll
