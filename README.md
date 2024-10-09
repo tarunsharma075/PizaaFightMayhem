@@ -48,7 +48,7 @@ Invalid Input: Enter a valid key to continue the fight.
 🧩 Classes and Structure
 
 1. player (Dough Master)
-2. 
+   
 Attributes: health, max_health, attackdamage, healing_capacity.
 Methods:
 CalculateTotalDamage(): Calculate the total damage for each attack.
