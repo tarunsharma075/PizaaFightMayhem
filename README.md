@@ -47,7 +47,7 @@ H: Heal with Espresso Shot ☕
 Invalid Input: Enter a valid key to continue the fight.
 🧩 Classes and Structure
 
-1. player (Dough Master)
+1. Player (Dough Master)
    
 Attributes: health, max_health, attackdamage, healing_capacity.
 Methods:
@@ -56,7 +56,7 @@ TakeDamage(int damage): Reduce health when attacked.
 Heal(int healAmount): Increase health by healing.
 DisplayPlayerStats(): Show the player's current stats.
 
-3. Enemy (Crust Bandit)
+2. Enemy (Crust Bandit)
    
 Attributes: health, max_health, attack_damage.
 Methods:
